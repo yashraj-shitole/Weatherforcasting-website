@@ -1,0 +1,17 @@
+
+font:
+
+<link href="https://api.fontshare.com/v2/css?f[]=satoshi@300&display=swap" rel="stylesheet">
+
+CSS:
+font-family: 'Satoshi', sans-serif;
+
+
+
+weather api key:
+866f3e6891b700d52b7e23b1ca111ac3
+
+
+iconkit:
+
+<script src="https://kit.fontawesome.com/7dff4f5247.js" crossorigin="anonymous"></script>
